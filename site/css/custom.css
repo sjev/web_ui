@@ -1,0 +1,38 @@
+
+nav {
+    background: #ddd;
+}
+
+.button {
+    text-align: center;
+}
+
+
+
+.btn-group button {
+    margin-left: auto;
+    margin-right: auto;
+    width: 10em;
+    display: block; /* items appear below each other */
+}
+
+.card {
+    width: fit-content;
+    margin:0.2em
+}
+
+.wide {
+    width: 100%
+}
+
+
+body {
+    background-color: white;
+}
+
+main {
+    background-color: white;
+    width: 90%;
+    padding: 80px 0 0;
+    margin: 0 auto;
+}
